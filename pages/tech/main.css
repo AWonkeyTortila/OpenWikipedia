@@ -69,10 +69,3 @@ a:active { text-decoration: none; }
     background-color: rgb(182, 182, 182);
     border-left: 8px solid #6D81A8;
 }
-
-/* 5:40 pm. 4/30/25 wonkey */
-.red-box {
-    float: left;
-    width: 49%;
-    border: 2px solid rgb(209, 44, 44);
-}
